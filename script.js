@@ -21,7 +21,7 @@ const questions = [
     {
         question: "Who have the big body in our family",
         answers: [
-            { text: "Harisha G B", correct: false},git 
+            { text: "Harisha G B", correct: false},
             { text: "Bhoomika H K", correct: false},
             { text: "Lokesha G B", correct: true},
             { text: "Cow", correct: false},
