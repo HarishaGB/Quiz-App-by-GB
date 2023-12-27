@@ -3,7 +3,7 @@ const questions = [
         question: "Who is the largest animal in our family",
         answers: [
             { text: "Harisha G B", correct: false},
-            { text: "Bhoomika", correct: false},
+            { text: "Bhoomika H K", correct: false},
             { text: "Lokesha G B", correct: true},
             { text: "Cow", correct: false},
         ]
