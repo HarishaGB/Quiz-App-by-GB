@@ -13,7 +13,7 @@ const questions = [
         question: "Who have the big sound in our family",
         answers: [
             { text: "Harisha G B", correct: false},
-            { text: "Bhoomika", correct: false},
+            { text: "Bhoomika H K", correct: false},
             { text: "Lokesha G B", correct: true},
             { text: "Cow", correct: false},
         ]        
@@ -21,8 +21,8 @@ const questions = [
     {
         question: "Who have the big body in our family",
         answers: [
-            { text: "Harisha G B", correct: false},
-            { text: "Bhoomika", correct: false},
+            { text: "Harisha G B", correct: false},git 
+            { text: "Bhoomika H K", correct: false},
             { text: "Lokesha G B", correct: true},
             { text: "Cow", correct: false},
         ]        
@@ -31,7 +31,7 @@ const questions = [
         question: "Who have the one-more big body in our family",
         answers: [
             { text: "Harisha G B", correct: false},
-            { text: "Bhoomika", correct: true},
+            { text: "Bhoomika H K", correct: true},
             { text: "Lokesha G B", correct: false},
             { text: "Cow", correct: false},
         ]        
@@ -40,7 +40,7 @@ const questions = [
         question: "Who is the smart, strong and intelligent in our family",
         answers: [
             { text: "Harisha G B", correct: true},
-            { text: "Bhoomika", correct: false},
+            { text: "Bhoomika H K", correct: false},
             { text: "Lokesha G B", correct: false},
             { text: "Cow", correct: false},
         ]        
